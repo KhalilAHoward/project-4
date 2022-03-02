@@ -24,12 +24,10 @@ export default function AddGameForm(props){
     e.preventDefault()
              
     const formData = new FormData()
-    formData.append('photo', selectedFile); // this key matches the key in multer in the 
-	// routes/api/posts create route upload.single('photo')
+    formData.append('photo', selectedFile); 
     formData.append('description', state.description)
    
-	props.handleAddPost(formData)
-    // Have to submit the form now! We need a function!
+	  props.handleAddGame(formData)
   }
 
 
