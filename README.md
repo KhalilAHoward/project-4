@@ -1,3 +1,55 @@
+Whatcha Playing?
+
+This app can be used by you and your friends to talk about what games you're currently playing and whether you'd recommend those games to others.
+
+
+
+![Screenshot (294)](https://user-images.githubusercontent.com/95941172/156416794-d2228ec1-12ed-49e6-8559-acc8e2afd036.png)
+
+
+
+![Screenshot (296)](https://user-images.githubusercontent.com/95941172/156416938-eb33b9ce-17e6-4c0f-8fd9-6cef98e23d22.png)
+
+
+
+![Screenshot (295)](https://user-images.githubusercontent.com/95941172/156416979-31e3382f-39db-46dd-9776-4ff4b40b8154.png)
+
+
+![Screenshot (297)](https://user-images.githubusercontent.com/95941172/156417014-6f7ccfd6-5297-43b4-aa6b-a4bf1b0cd8fb.png)
+
+_________________________________________________________________________________________________________________________________
+
+
+Technologies Used
+
+Node.js
+Express
+React
+HTML/CSS
+MongoDB
+Semantic-ui-react
+JWT for authentication
+Heroku
+
+__________________________________________________________________________________________________________________________________
+
+Icebox
+
+Add the IDGB api
+Show games by genre, new releases
+AAU, add and delete comments when signed in 
+
+__________________________________________________________________________________________________________________________________
+
+
+
+
+
+
+
+
+
+
 ## Setup 
 
 1. Clone the repo
